@@ -1,0 +1,6 @@
+@hazidolgozat_HostAddress = http://localhost:5094
+
+GET {{hazidolgozat_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
